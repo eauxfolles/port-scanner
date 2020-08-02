@@ -1,4 +1,6 @@
 # port-scanner
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 PoC/Alpha of a tool written in Python to scan through ports of a given IP.
 
 Function: Tool takes IP as parameter, as it accepts indicator for single or multithreading and performs scan through ports.
