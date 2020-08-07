@@ -4,7 +4,7 @@
 
 PoC/Alpha of a tool written in Python to scan through ports of a given IP.
 
-Function: Tool takes IP as parameter, as it accepts indicator for single or multithreading and performs scan through ports. Tested under Windows.
+Tool takes IP as parameter, as it accepts indicator for single or multithreading and performs scan through ports. Tested under Windows.
 
 ***Usage:*** "portscan.py -option <ip>"
 
