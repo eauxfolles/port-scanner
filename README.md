@@ -10,7 +10,7 @@ Tool takes IP as parameter, as it accepts indicator for single or multithreading
 
 Where:
 
-- "option" is either "-m" (multithreading) or "-s" (single threading)
-- "ip" is the target IP
+* \<option> is either "-m" (multithreading) or "-s" (single threading).
+* \<ip> is the target IP.
 
 On a Windows 10 system, scanning for 1000 ports via single threading takes around 12 seconds, multithreading around 2 seconds.  
